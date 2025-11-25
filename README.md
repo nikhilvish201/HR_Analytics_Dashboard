@@ -2,8 +2,6 @@
 📌 Project Overview
 This project involves the creation of a comprehensive HR Analytics Dashboard using Microsoft Power BI. The goal of this dashboard is to provide actionable insights into employee attrition, helping the HR department understand workforce trends, identify key factors contributing to turnover, and improve retention strategies.
 
-📷 Dashboard Preview
-(Note: Upload a screenshot of your dashboard here in your GitHub repo and link it below)
 
 📝 Problem Statement
 Employee attrition is a significant cost to organizations. This dashboard aims to answer key questions:
